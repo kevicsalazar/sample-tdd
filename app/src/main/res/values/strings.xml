@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TDD</string>
+    <string name="search">Buscar</string>
+    <string name="add_new_user">Registrar nuevo usuario</string>
+</resources>
